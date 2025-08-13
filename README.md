@@ -6,7 +6,7 @@ Cada proyecto incluye enlace al dashboard en Tableau Public y una vista previa p
 ---
 
 ## 🎰 Libro de Prueba de Casino
-![Vista previa](img/casino_preview.png)  
+
 **Descripción:** Dashboard de ejemplo para análisis de métricas en un casino.  
 Permite visualizar países que más juegan, qué juegos prefieren y cuáles generan mayor ingreso.  
 Este dashboard es esencial para optimizar el producto tanto en la app móvil como en la web, y mejorar el servicio al cliente.  
@@ -16,7 +16,7 @@ Este dashboard es esencial para optimizar el producto tanto en la app móvil com
 ---
 
 ## ⚾ Ohtani Career Homers
-![Vista previa](img/ohtani_preview.png)  
+
 **Descripción:** Análisis de cuadrangulares de Shohei Ohtani a lo largo de su carrera.  
 
 🔗 **Ver interactivo:** [Abrir en Tableau Public](https://public.tableau.com/app/profile/andr.s.mart.nez.hern.ndez3609/viz/OhtanICarrerHomersByAndrsMartnez/OhtaniHomers)
